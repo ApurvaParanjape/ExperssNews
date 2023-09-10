@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zachary B. Wolf",
+            "title": "Here's what to know about GOP claims of a Biden scandal | CNN Politics",
+            "description": "Defenders of former President Donald Trump have responded to news of his indictment by the US Department of Justice with deflection: Why is Trump being charged but not President Joe Biden’s son Hunter?",
+            "url": "https://www.cnn.com/2023/06/09/politics/hunter-biden-republicans-what-matters/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230609140547-hunter-biden-041822-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-09T19:25:55Z",
+            "content": "A version of this story appears in CNNs What Matters newsletter. To get it in your inbox, sign up for free here.\r\nDefenders of former President Donald Trump have responded to news of his indictment b… [+6296 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
